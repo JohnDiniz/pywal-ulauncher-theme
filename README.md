@@ -3,20 +3,20 @@
 
 Pywal theme for Ulauncher
 
-![](test-video.gif)
+![](example.gif)
 
 ## Installation
 
 ## Clone the files to the ulauncher theme directory
 
 ```bash
-  git clone https://github.com/abissaldev/pywal-ulauncher-theme.git ~$HOME/.config/ulauncher/user-themes/pywal-ulauncher-theme
+git clone https://github.com/abissaldev/pywal-ulauncher-theme.git ~/.config/ulauncher/user-themes/pywal-ulauncher-theme
 ```
 
 
 ## Enter project folder and move template file to pywal template directory
 ```bash
-cd ~$HOME/.config/ulauncher/user-themes/pywal-ulauncher-theme && mv ~$HOME/.config/wal/templates/template.css
+cd ~/.config/ulauncher/user-themes/pywal-ulauncher-theme && mv ~/.config/wal/templates/template.css
 ```
 
 ## Now run pywal example ```wal -i image.jpg``` to create cache file
@@ -24,7 +24,7 @@ cd ~$HOME/.config/ulauncher/user-themes/pywal-ulauncher-theme && mv ~$HOME/.conf
 ## Create symbolic link from pywal cache
 
 ```bash
-ln ~$HOME/.cache/wal/template.css ~$HOME/.config/ulauncher/user-themes/pywal-ulauncher-theme
+ln ~/.cache/wal/template.css ~/.config/ulauncher/user-themes/pywal-ulauncher-theme
 ```
 ## License
 
