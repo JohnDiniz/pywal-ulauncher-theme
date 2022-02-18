@@ -16,7 +16,7 @@ git clone https://github.com/abissaldev/pywal-ulauncher-theme.git ~/.config/ulau
 
 ## Enter project folder and move template file to pywal template directory
 ```bash
-cd ~/.config/ulauncher/user-themes/pywal-ulauncher-theme && mv ~/.config/wal/templates/template.css
+cd ~/.config/ulauncher/user-themes/pywal-ulauncher-theme && mv pywal-ulauncher-themplate.css ~/.config/wal/templates/template.css
 ```
 
 ## Now run pywal example ```wal -i image.jpg``` to create cache file
