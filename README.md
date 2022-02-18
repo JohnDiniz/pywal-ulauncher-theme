@@ -31,3 +31,5 @@ ln ~/.cache/wal/template.css ~/.config/ulauncher/user-themes/pywal-ulauncher-the
 ## License
 
 [MIT License](./LICENSE)
+
+### Credits for base script [here](https://github.com/dracula/ulauncher)
