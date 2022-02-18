@@ -3,7 +3,9 @@
 
 Pywal theme for Ulauncher
 
-![](example.gif)
+<img src="https://media1.tenor.com/images/f11cc73d23e716fbaf3f5c394909428e/tenor.gif?itemid=24930535" width="683" height="384.1875" alt="GIF - GIFs" style="max-width: 683px; background-color: rgb(63, 63, 63); --darkreader-inline-bgcolor:#03090c;" data-darkreader-inline-bgcolor="">
+
+<!-- ![](example.gif) -->
 
 ## Installation
 
