@@ -1,5 +1,5 @@
 @import "template.css"; /**
- * Dracula colors
+ * pywal colors
  */
 @define-color background @background_color;
 @define-color current_line_background #44475A;
